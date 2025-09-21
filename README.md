@@ -4,7 +4,7 @@ Proyek ini merupakan sistem digitalisasi penjualan Mitra Buana yang dikembangkan
 
 Tujuan
 
--Mempermudah mitra dan pelanggan dalam melakukan transaksi secara online.
+-Mempermudah pelanggan dalam melakukan transaksi secara online.
 
 -Meningkatkan efektivitas pengelolaan data penjualan dan stok barang.
 
