@@ -1,8 +1,8 @@
-🏢 Pengembangan Digital Penjualan Mitra Buana
+Pengembangan Digital Penjualan Mitra Buana
 
 Proyek ini merupakan sistem digitalisasi penjualan Mitra Buana yang dikembangkan untuk mendukung transformasi bisnis dari model penjualan konvensional ke platform berbasis teknologi. Dengan adanya sistem ini, diharapkan proses transaksi, pengelolaan produk, hingga laporan penjualan dapat berjalan lebih cepat, efisien, dan terintegrasi.
 
-🎯 Tujuan
+Tujuan
 
 -Mempermudah mitra dan pelanggan dalam melakukan transaksi secara online.
 
