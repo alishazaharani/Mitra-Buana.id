@@ -1,3 +1,6 @@
 [submodule "web-framework"]
 	path = web-framework
 	url = https://github.com/trty673/web-framework
+[submodule "mutiWF"]
+	path = mutiWF
+	url = https://github.com/mutii12/mutiWF
