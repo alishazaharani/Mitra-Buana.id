@@ -4,3 +4,6 @@
 [submodule "mutiWF"]
 	path = mutiWF
 	url = https://github.com/mutii12/mutiWF
+[submodule "Assignment-WebFramework"]
+	path = Assignment-WebFramework
+	url = https://github.com/alishazaharani/Assignment-WebFramework.git
